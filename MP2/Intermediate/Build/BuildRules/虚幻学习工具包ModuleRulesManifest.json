@@ -1,0 +1,17 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\罗舜阳\\OneDrive - International Campus, Zhejiang University\\Fall_2024\\cs415\\mp2\\虚幻学习工具包\\Plugins\\KawaiiPhysics\\Source\\KawaiiPhysicsEd\\KawaiiPhysicsEd.Build.cs",
+		"C:\\Users\\罗舜阳\\OneDrive - International Campus, Zhejiang University\\Fall_2024\\cs415\\mp2\\虚幻学习工具包\\Plugins\\KawaiiPhysics\\Source\\KawaiiPhysics\\KawaiiPhysics.Build.cs",
+		"C:\\Users\\罗舜阳\\OneDrive - International Campus, Zhejiang University\\Fall_2024\\cs415\\mp2\\虚幻学习工具包\\Plugins\\SPCRJointDynamics\\Source\\SPCRJointDynamicsEd\\SPCRJointDynamicsEd.Build.cs",
+		"C:\\Users\\罗舜阳\\OneDrive - International Campus, Zhejiang University\\Fall_2024\\cs415\\mp2\\虚幻学习工具包\\Plugins\\SPCRJointDynamics\\Source\\SPCRJointDynamics\\SPCRJointDynamics.Build.cs",
+		"C:\\Users\\罗舜阳\\OneDrive - International Campus, Zhejiang University\\Fall_2024\\cs415\\mp2\\虚幻学习工具包\\Plugins\\VRM4U\\Source\\VRM4UCaptureEditor\\VRM4UCaptureEditor.Build.cs",
+		"C:\\Users\\罗舜阳\\OneDrive - International Campus, Zhejiang University\\Fall_2024\\cs415\\mp2\\虚幻学习工具包\\Plugins\\VRM4U\\Source\\VRM4UCapture\\VRM4UCapture.Build.cs",
+		"C:\\Users\\罗舜阳\\OneDrive - International Campus, Zhejiang University\\Fall_2024\\cs415\\mp2\\虚幻学习工具包\\Plugins\\VRM4U\\Source\\VRM4UEditor\\VRM4UEditor.Build.cs",
+		"C:\\Users\\罗舜阳\\OneDrive - International Campus, Zhejiang University\\Fall_2024\\cs415\\mp2\\虚幻学习工具包\\Plugins\\VRM4U\\Source\\VRM4UImporter\\VRM4UImporter.Build.cs",
+		"C:\\Users\\罗舜阳\\OneDrive - International Campus, Zhejiang University\\Fall_2024\\cs415\\mp2\\虚幻学习工具包\\Plugins\\VRM4U\\Source\\VRM4ULoader\\VRM4ULoader.Build.cs",
+		"C:\\Users\\罗舜阳\\OneDrive - International Campus, Zhejiang University\\Fall_2024\\cs415\\mp2\\虚幻学习工具包\\Plugins\\VRM4U\\Source\\VRM4UMisc\\VRM4UMisc.Build.cs",
+		"C:\\Users\\罗舜阳\\OneDrive - International Campus, Zhejiang University\\Fall_2024\\cs415\\mp2\\虚幻学习工具包\\Plugins\\VRM4U\\Source\\VRM4URender\\VRM4URender.Build.cs",
+		"C:\\Users\\罗舜阳\\OneDrive - International Campus, Zhejiang University\\Fall_2024\\cs415\\mp2\\虚幻学习工具包\\Plugins\\VRM4U\\Source\\VRM4U\\VRM4U.Build.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
